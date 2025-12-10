@@ -1,0 +1,1 @@
+This is where I will sync my daily study notes (taken in the note-taking app Obsidian)
